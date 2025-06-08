@@ -98,3 +98,17 @@
   opacity: 0.4;
   box-shadow: 1.5px 1.5px 10px rgb(3, 235, 3);
 }
+
+.swisscom {
+  font-family: Raleway, sans-serif;
+  color: white;
+  background-color: rgb(0, 17, 85);
+  border: none;
+  padding: 4px 10px 4px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.swisscom:hover {
+  background-color: black;
+}
